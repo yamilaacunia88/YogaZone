@@ -1,0 +1,196 @@
+/* body y header se mantienen  en todas las paginas, mismo asi navegador*/
+.body {
+  grid-template-areas: grid;
+  font-family: Rockwell;
+  background-color: pink;
+}
+
+.header {
+  border-bottom-color: rgb(161, 217, 234);
+  padding: 3%;
+  background-color: rgb(94, 97, 97);
+  border-style: ridge;
+  border-color: rgb(165, 158, 158);
+}
+
+.iconodeheader {
+  border-radius: 15%;
+  margin-left: 2%;
+  margin-bottom: -1.5%;
+  opacity: 0.7;
+}
+
+.navegador {
+  font-family: Rockwell;
+  font-size: 19px;
+}
+
+li {
+  float: right;
+  display: block;
+  font-family: Rockwell;
+}
+
+li a {
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 10px 10px;
+  border-color: rgb(165, 158, 158);
+}
+
+li a:hover {
+  background-color: rgb(231, 84, 109);
+}
+
+/* body y header se mantienen  en todas las paginas- mismo asi navegador*/
+
+
+
+.piedepagina1 {
+ margin-top: -550%;
+  padding: auto;
+
+}
+/* hasta acá el inicio de pagina*/
+
+/* historia*/
+.historiadelyoga {
+  background-color: rgb(233, 147, 162);
+  border-color: solid 1px black;
+  font-family: Rockwell;
+  padding: 10%;
+  margin: 3%;
+  text-align: center;
+}
+.imagenbu {
+  float: left;
+  border-radius: 15%;
+  border-color: SOLID 5px black;
+}
+
+.archivodescarga {
+  background-color: #938a91;
+  background-attachment: fixed;
+  font-family: sans-serif;
+  box-decoration-break: clone;
+}
+/* clases botones enlace*/
+.clases {
+  font-family: Rockwell;
+  margin-bottom: 20%;
+  margin-left: -50px;
+}
+
+li {
+  display: block;
+  font-family: Rockwell;
+}
+
+li a {
+  display: block;
+  color: rgb(211, 155, 200);
+  text-align: center;
+  padding: 10px 10px;
+  border-color: rgb(165, 158, 158);
+}
+
+li a:hover {
+  background-color: pink;
+}
+.yogaimg {
+  margin-right: -45%;
+  margin-block-start: 5%;
+}
+
+.formulario1 {
+  background-color: rgba(172, 155, 168, 0.62);
+  font-family: Rockwell;
+  border-radius: 15px;
+  margin-top: -52%;
+  margin-bottom: 10%;
+  margin-left: 62%;
+  border-style: double;
+  border-color: rgb(205, 110, 129);
+  text-align: center;
+  text-emphasis-color: grey;
+}
+/*hasta aca clases*/
+
+/*nosotros*/
+.mision {
+  background-color: rgb(211, 155, 200);
+  border-color: black;
+  font-family: Rockwell;
+  margin-left: 0%;
+  padding: 4%;
+  text-align: center;
+  border-radius: 8px;
+}
+table {
+  margin: 5%;
+  padding: 4.5%;
+  margin-left: 15%;
+}
+
+.table,
+th,
+td {
+  border: 1px solid;
+  tab-size: 15px;
+}
+td:hover {
+  background-color: coral;
+}
+tr:hover {
+  background-color: rgb(243, 152, 225);
+}
+
+/*pagina beneficios*/
+.beneficios {
+  background-color: rgb(216 137 201 / 27%);
+  border-style: double;
+  border-color: crimson;
+  font-style: italic;
+  font-size-adjust: unset;
+}
+
+.imgbeneficios {
+  float: right;
+  border-radius: 13%;
+}
+
+/* Hasta acá pagina beneficios*/
+
+/*pie de pagina, se repite en todas*/
+
+.piedepagina {
+  background-color:  rgb(94, 97, 97);
+  font-family: Rockwell;
+  border-style: inset;
+  border-color: black;
+  text-align: center;
+  margin-top: -8%;
+  padding: -90%;
+}
+
+.hora {
+  background-color: #d76fc4;
+  font-family: Rockwell;
+}
+.relojito {
+  width: 25px;
+}
+
+.graciasform {
+  background-color:  #e2c7dd;
+  margin-block: 1%;
+  padding: 7%;
+  text-align: center;
+  font-family: cursive;
+  border-style: ridge;
+  border-bottom: #f2a3e3;
+}
+.namastes {
+margin: auto;
+}
